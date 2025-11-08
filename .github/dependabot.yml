@@ -6,6 +6,6 @@ updates:
       interval: "daily"
 
   - package-ecosystem: "devcontainers"
-    directory: "/"
+    directory: "/.devcontainer"
     schedule:
       interval: "weekly"
